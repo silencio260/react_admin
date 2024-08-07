@@ -94,7 +94,6 @@ const Team = () => {
                 },
                 "& .MuiDataGrid-columnHeader": {
                   backgroundColor: colors.blueAccent[700],
-                // backgroundColor:  `${colors.greenAccent[200]} !important`,
                   borderBottom: "none",
                 },
                 "& .MuiDataGrid-virtualScroller": {
